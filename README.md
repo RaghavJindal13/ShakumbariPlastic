@@ -1,5 +1,5 @@
 <h1 align="center">
-🌐 Full Stack Typoo
+🌐 Shakumbari Plastics
 </h1>
 <p align="center">
 MongoDB, Expressjs, Nodejs, express-handlebars <br>
